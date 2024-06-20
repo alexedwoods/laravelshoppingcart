@@ -1,5 +1,5 @@
 {
-    "name": "darryldecode/cart",
+    "name": "alexedwoods/laravelshoppingcart",
     "description": "Laravel 11 Shopping cart",
     "keywords": ["laravel", "shopping cart", "cart"],
     "license": "MIT",
